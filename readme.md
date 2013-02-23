@@ -1,5 +1,5 @@
-Simple node CouchDB client
-==========================
+Simple node.js RDMBS REST client
+================================
 
 - designed for [www.partialjs.com](http://partialjs.com)
 
@@ -12,7 +12,6 @@ Simple node CouchDB client
 - write and run on terminal:
 
 ```text
-$ npm install partial.js
 $ npm install partial-rdbms
 ```
 
