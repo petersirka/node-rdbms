@@ -1,6 +1,7 @@
 Simple node.js RDMBS REST client
 ================================
 
+- must be implement [HTTP-RDBMS](https://github.com/petersirka/http-rdbms)
 - designed for [www.partialjs.com](http://partialjs.com)
 
 ***
